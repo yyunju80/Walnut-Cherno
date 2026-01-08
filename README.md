@@ -9,7 +9,7 @@ _<center>Forest Launcher - an application made with Walnut</center>_
 
 # OpenWalnut 
 
-OpenWalnut is an open source tool for multi-modal data visualization. Its universality allows it to be easily extended and used in a large variety of application cases. It is both, a tool for the scientific user and a powerful framework for the visualization researcher. OpenWalnut is licensed under the terms of the GNU Lesser General Public License version 3. Written entirely in Standard C++ and using a number of portable libraries (e.g. Qt, Boost and OpenSceneGraph) it runs on common GNU/Linux operating systems, Mac OSX and Windows. For more information, including system requirements, see OpenWalnut. Futher details, ,please consult [link1](https://openwalnut.org/) and [link2](https://gitlab.rlp.net/openwalnut/openwalnut-core/-/wikis/home): 
+OpenWalnut is an open source tool for multi-modal data visualization. Its universality allows it to be easily extended and used in a large variety of application cases. It is both, a tool for the scientific user and a powerful framework for the visualization researcher. OpenWalnut is licensed under the terms of the GNU Lesser General Public License version 3. Written entirely in Standard C++ and using a number of portable libraries (e.g. Qt, Boost and OpenSceneGraph) it runs on common GNU/Linux operating systems, Mac OSX and Windows. For more information, including system requirements, see OpenWalnut. Futher details, ,please consult [link1](https://openwalnut.org/) and [link2](https://gitlab.rlp.net/openwalnut/openwalnut-core/-/wikis/home), [youtube channel](https://www.youtube.com/@OpenWalnutOrg/featured): 
 
 
 ## Requirements
